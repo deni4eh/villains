@@ -1,0 +1,22 @@
+{"VILLAINS":[{
+    "NAME":"Smaug",
+    "IMAGE":"http://www.tolkienlibrary.com/press/images/22-MS-Tolkein-drawings-30.jpg1555x2000.jpg",
+    "DESCRIPTION":"Smaug is a dragon and the main antagonist in J. R. R. Tolkien's The Hobbit, his treasure and the mountain he lives in being the goal of the quest. Powerful and fearsome, he invaded the Dwarf kingdom of Erebor 150 years prior to the events described in the novel.",
+    "YEAR":1937
+}
+,
+{   
+    "NAME":"Professor Moriarty - Sherlock Holmes",
+    "IMAGE":"https://imgix.bustle.com/2016/12/27/e22ecb2d-5d66-49cc-bb3e-e3685f415373.jpg",
+    "DESCRIPTION":"Often referred to as Sherlock Holmes' arch-enemy, Moriarty is a machiavellian criminal mastermind whom Holmes describes as the 'Napoleon of crime.'",
+    "YEAR":1893
+}
+,
+{   
+    "NAME":"The Daleks",
+    "IMAGE":"https://static1.srcdn.com/wordpress/wp-content/uploads/2019/11/3-Daleks-featured-image-Dr-Who-Cropped.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
+    "DESCRIPTION":"From the sci-fi show 'Doctor Who', the Daleks are an alien race of mutants from the planet Skaro. Devoid of pity, feelings or guilt, having purged themselves from all emotions aside from hate, the Daleks want universal conquest and control. They are The Doctor's greatest, and oldest enemy.",
+    "YEAR":1963
+}
+]
+}
